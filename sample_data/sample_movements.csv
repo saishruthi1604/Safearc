@@ -1,0 +1,6 @@
+case_id,angle_deg,angular_velocity_deg_s,sensor_confidence_pct,expected_demo_status
+S01,55,35,95,WITHIN DEMO RANGE
+S02,88,30,95,CAUTION
+S03,110,40,95,OUTSIDE DEMO RANGE
+S04,45,180,95,CAUTION
+S05,50,30,20,CHECK SENSOR
